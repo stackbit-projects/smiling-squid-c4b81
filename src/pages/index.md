@@ -6,11 +6,9 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
-
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+    content: >
+      # Greenway&#xA;&#xA;The best products for those who have chosen a
+      conscious ecological approach to their life!&#xA;&#xA;
     actions:
       - title: See all items
         url: /store
