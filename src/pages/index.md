@@ -7,8 +7,8 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: >
-      ##### Greenway&#xA;&#xA;The best products for those who have chosen a
-      conscious ecological approach to their life!&#xA;&#xA;
+      ##### &#xA;&#xA;The best products for those who have chosen a conscious
+      ecological approach to their life!&#xA;&#xA;
     actions:
       - title: See all items
         url: /store
